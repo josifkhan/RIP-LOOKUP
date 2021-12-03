@@ -10,16 +10,15 @@
 USE THIS TOOL AT YOUR OWN RISK.
 
 # INSTALLATION
+>>
+>> git clone https://github.com/josifkhan/RIP-LOOKUP<br/>
+>> cd RIP-LOOKUP<br/>
+>> python3 -m pip install -r packages<br/>
+>> python3 rip-lookup.py
+<br/><br/>
 
-git clone https://github.com/josifkhan/RIP-LOOKUP
-
-pip3 install -r packages
-
-python3 rip-lookup.py
-
-# SUPPORTED PLATFORMS
-
-Linux recommended, designed for Termux App
+>> <b>Video Tutorial</b> : <a href="https://youtube.com/channel/UCD2GV324n03HzJ57YveKKbA">Click Here</a>
+<br/><br/>
 
 Credits:
 
